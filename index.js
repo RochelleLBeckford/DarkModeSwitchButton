@@ -11,6 +11,7 @@ switchBtn.addEventListener('click', () => {
 
     if (root.classList.contains('dark')) {
         content.innerText = 'Welcome to the Dark Side : )!!!';
+        
     } else {
         content.innerText = 'Come into the Light : )!!!';
     }
