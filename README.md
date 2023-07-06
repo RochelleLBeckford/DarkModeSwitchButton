@@ -19,4 +19,4 @@
     - [ ]  If I click or do this → this will happen
 ---
 - [ ]  The switch button will be modern and colorful
-- [ ]  A Dynamic and Interactive App
+- [ ]  A Interactive and Dynamic webpage
