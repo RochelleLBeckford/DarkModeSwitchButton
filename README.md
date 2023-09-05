@@ -20,3 +20,6 @@
 - [ ]  CSS → encompass the style of the app and give it a smooth transition
 - [ ]  JavaScript → provide the functionality of the page
     - [ ]  If I click or do this → this will happen
+---
+- [ ] Link for the web application: https://ro-dark-mode-switch-button-app.netlify.app/
+---
